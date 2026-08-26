@@ -1,0 +1,6 @@
+{
+  "name": "SUNDARAM.TRAVEL",
+  "description": "Premium travel and experience marketplace from Bali, Indonesia by PT. Bali Sundaram Travel.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
